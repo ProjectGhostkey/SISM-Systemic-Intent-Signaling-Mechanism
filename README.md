@@ -72,11 +72,3 @@ Why This Exists
 As AI systems become more capable, the risk is not intelligence itself, but silent power.
 
 SISM exists to make secrecy impossible by default.
-
-After you paste that:
-
-Save the README
-
-Commit it (GitHub will timestamp it)
-
-Then upload sism_v0.py as the reference implementation
